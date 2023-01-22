@@ -4,4 +4,4 @@ A presentation on SVMs with concept-illustrative implmentation in Python present
 
 - [Python Illustrative Implementation - Notebook](./Support_Vector_Machines_Code.ipynb)
 - [Lecture Handout](./Support-Vector-Machines_Report.pdf)
-- [Lecture Presentation](./Support-Vector-Machines_Presentation.pdf)
+- [Lecture Presentation](./Support-Vector-Machines_Presentation.pdf) (*adapted from the slides of [Dr. Andrew Moore, CMU](http://www.cs.cmu.edu/~awm)*)
